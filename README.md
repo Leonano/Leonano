@@ -52,10 +52,10 @@ I like environments that tell a story, and I like the tools that make them faste
 ### 🧰 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,maya,py,cpp,ps,ai,ae,pr&theme=dark" alt="Unreal, Unity, Maya, Python, C++, Photoshop, Illustrator, After Effects, Premiere">
+  <img src="https://skillicons.dev/icons?i=unreal,unity,py,cpp,ps,ai,ae,pr&theme=dark" alt="Unreal, Unity, Python, C++, Photoshop, Illustrator, After Effects, Premiere">
 </p>
 
-`ZBrush` `Substance Designer` `Substance Painter` `Mari` `SpeedTree` `Marmoset Toolbag` `Snowdrop` `Photogrammetry` `Perforce` `World Partition`
+`Maya` `ZBrush` `Substance Designer` `Substance Painter` `Mari` `SpeedTree` `Marmoset Toolbag` `Snowdrop` `Photogrammetry` `Perforce` `World Partition`
 
 ---
 
