@@ -89,12 +89,13 @@ implementation, and through Claude Code and MCP it can drive the Unreal editor d
 
 <a href="https://leoiezzi.com"><img src="assets/climbing.webp" width="100%" alt="Climbing and ice-climbing photography by Leo Iezzi"></a>
 
-<a href="https://www.acmg.ca/"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/acmg-dark.png">
-  <img src="assets/acmg-light.png" height="28" alt="ACMG">
-</picture></a>
+  <source media="(prefers-color-scheme: light)" srcset="assets/acmg-light.png">
+  <img alt="ACMG" src="assets/acmg-light.png" height="28">
+</picture>
 
-I'm an **ACMG Apprentice Rock Guide** and **Wilderness First Aid (WFA) certified**.
+I'm an **[ACMG](https://www.acmg.ca/) Apprentice Rock Guide** and **Wilderness First Aid (WFA) certified**.
 I shoot rock and ice climbing around Squamish and beyond ([leoiezzi.com](https://leoiezzi.com)), and I volunteer
 my design, web and photo skills for the local climbing community:
 
