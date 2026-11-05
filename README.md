@@ -49,16 +49,13 @@ I like environments that tell a story, and I like the tools that make them faste
 
 ---
 
-### 🤖 AI for tools
+### 🤖 AI for tools, not for art
 
 I build pipeline tools with AI as a co-developer. I own the vision: the problem worth solving,
 how the tool should feel for artists, and whether it's good enough to ship. AI does most of the
 implementation.
 
 <img src="assets/tools-before-after-ai.svg" width="100%" alt="Before AI: 30% vision, 50% figuring out how, 20% building, and only about 5% of the vision got built. With AI: 30% human vision and UX, 70% AI implementation, and the vision ships.">
-
-> [!IMPORTANT]
-> **Art shouldn't be AI-optimized.** AI builds the tools; the worlds are still made by artists.
 
 ---
 
