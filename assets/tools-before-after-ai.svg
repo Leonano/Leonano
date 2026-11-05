@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="372" viewBox="0 0 880 372" role="img" aria-labelledby="t d">
+  <title id="t">How my tools get built, before and with AI</title>
+  <desc id="d">Before AI: 30% vision, 50% figuring out how to do it, 20% implementing, and only about 5% of the vision got built. With AI: 30% human (vision, tool design and UX, review), 70% AI (implementation, editor plumbing, iteration and tests), and the vision actually ships.</desc>
+  <style>
+    :root { --ink: #1f2328; --muted: #59636e; --rule: #d1d9e0;
+            --human: #d98a1f; --how: #8c959f; --impl: #8250df; --ai: #3f7fd0; }
+    @media (prefers-color-scheme: dark) {
+      :root { --ink: #e6edf3; --muted: #9198a1; --rule: #3d444d;
+              --human: #e8a33d; --how: #6e7681; --impl: #a371f7; --ai: #5b9be6; }
+    }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: var(--ink); }
+    .head { font-size: 13px; font-weight: 700; fill: var(--muted); letter-spacing: .12em; }
+    .pct { font-size: 26px; font-weight: 600; }
+    .who { font-size: 14px; font-weight: 600; fill: var(--muted); letter-spacing: .04em; }
+    .item { font-size: 14px; fill: var(--muted); }
+    .out { font-size: 15px; font-weight: 600; }
+    .human { fill: var(--human); } .how { fill: var(--how); } .impl { fill: var(--impl); } .ai { fill: var(--ai); }
+  </style>
+
+  <!-- BEFORE AI -->
+  <text class="head" x="0" y="16">BEFORE AI</text>
+  <text class="pct" x="0" y="52">30%</text><text class="who" x="58" y="51">VISION</text>
+  <text class="pct" x="266" y="52">50%</text><text class="who" x="324" y="51">FIGURING OUT HOW</text>
+  <text class="pct" x="706" y="52">20%</text><text class="who" x="764" y="51">BUILDING</text>
+  <rect class="human" x="0" y="64" width="263" height="24" rx="4"/>
+  <rect class="how" x="265" y="64" width="439" height="24" rx="4"/>
+  <rect class="impl" x="706" y="64" width="174" height="24" rx="4"/>
+  <text class="out" x="0" y="118">→ only ~5% of the vision actually got built</text>
+
+  <line x1="0" y1="146" x2="880" y2="146" stroke="var(--rule)" stroke-width="1"/>
+
+  <!-- WITH AI -->
+  <text class="head" x="0" y="178">WITH AI</text>
+  <text class="pct" x="0" y="214">30%</text><text class="who" x="58" y="213">HUMAN</text>
+  <text class="pct" x="266" y="214">70%</text><text class="who" x="324" y="213">AI</text>
+  <rect class="human" x="0" y="226" width="263" height="24" rx="4"/>
+  <rect class="ai" x="265" y="226" width="615" height="24" rx="4"/>
+
+  <rect class="human" x="0" y="272" width="8" height="8" rx="2"/><text class="item" x="16" y="280">Vision: what to build and why</text>
+  <rect class="human" x="0" y="298" width="8" height="8" rx="2"/><text class="item" x="16" y="306">Tool design &amp; artist UX</text>
+  <rect class="human" x="0" y="324" width="8" height="8" rx="2"/><text class="item" x="16" y="332">Review, taste &amp; sign-off</text>
+
+  <rect class="ai" x="266" y="272" width="8" height="8" rx="2"/><text class="item" x="282" y="280">C++ &amp; Python implementation</text>
+  <rect class="ai" x="266" y="298" width="8" height="8" rx="2"/><text class="item" x="282" y="306">Unreal editor plumbing &amp; boilerplate</text>
+  <rect class="ai" x="266" y="324" width="8" height="8" rx="2"/><text class="item" x="282" y="332">Iteration, tests &amp; docs</text>
+
+  <rect class="ai" x="576" y="272" width="8" height="8" rx="2"/><text class="item" x="592" y="280">Blockouts &amp; level audits</text>
+  <rect class="ai" x="576" y="298" width="8" height="8" rx="2"/><text class="item" x="592" y="306">Profiling &amp; optimization passes</text>
+  <rect class="ai" x="576" y="324" width="8" height="8" rx="2"/><text class="item" x="592" y="332">Batch fixes across levels</text>
+
+  <text class="out" x="0" y="366">→ same 30% of vision, and now the vision ships</text>
+</svg>
