@@ -43,7 +43,8 @@ I like environments that tell a story, and I like the tools that make them faste
 | **Arcanaut Studios** | Current. Environments and in-editor tooling |
 | **The Coalition** (Microsoft) | Lead Level Artist |
 | **PUBG** (KRAFTON) | Expert World Builder |
-| **Ubisoft Reflections** | Senior Level / Environment Artist on *Far Cry 6* and *Tom Clancy's The Division 2* |
+| **Ubisoft Toronto** | Senior Level Artist on *Far Cry 6* |
+| **Ubisoft Reflections** | Senior Environment Artist on *Tom Clancy's The Division 2* |
 | **Sony London Studio** | Environment Artist on *PlayStation VR Worlds* |
 | **LKA** · **Contenano** · Italy | *The Town of Light*; co-founded an asset studio; graphic design |
 
