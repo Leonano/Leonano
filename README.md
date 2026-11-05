@@ -5,15 +5,14 @@
   <a href="https://www.artstation.com/leonano"><b>ArtStation</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/leonano/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://leoiezzi.com"><b>Climbing Photography</b></a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/leonano/"><b>Instagram</b></a> &nbsp;·&nbsp;
-  <a href="https://x.com/leonanodotcom"><b>X</b></a>
+  <a href="https://www.instagram.com/leonano/"><b>Instagram</b></a>
 </p>
 
 I'm Leo, an Italian environment and level artist based in **Squamish, BC**. I've spent 15+ years building
 AAA worlds, from early graphic-design work in Italy to open worlds at Ubisoft and Microsoft.
 I like environments that tell a story, and I like the tools that make them faster to build.
 
-- 🌲 **Now:** building worlds at [**Arcanaut Studios**](https://www.playnews.gg/en/studios/arcanaut-studios)
+- 🌲 **Now:** building worlds, setting up pipeline and env tech at [**Arcanaut Studios**](https://www.playnews.gg/en/studios/arcanaut-studios)
 - 🛠️ **On the side of the art:** Unreal Engine editor tools and plugins in C++ and Python for blockouts, Level Instances, World Partition and performance
 - 🎨 **Background:** graphic designer first, and it still shapes how I compose a shot or lay out a space
 - 🧗 **Off the clock:** climbing, ice climbing and shooting both around the Sea to Sky
@@ -40,23 +39,39 @@ I like environments that tell a story, and I like the tools that make them faste
 
 | Studio | Work |
 | :-- | :-- |
-| **Arcanaut Studios** | Current. Environments and in-editor tooling |
+| **Arcanaut Studios** | Current · Lead Environment Artist |
 | **The Coalition** (Microsoft) | Lead Level Artist |
 | **PUBG** (KRAFTON) | Expert World Builder |
 | **Ubisoft Toronto** | Senior Level Artist on *Far Cry 6* |
 | **Ubisoft Reflections** | Senior Environment Artist on *Tom Clancy's The Division 2* |
 | **Sony London Studio** | Environment Artist on *PlayStation VR Worlds* |
-| **LKA** · **Contenano** · Italy | *The Town of Light*; co-founded an asset studio; graphic design |
+| **LKA** · **Contenano** · Italy | *The Town of Light*; graphic design |
+
+---
+
+### 🤖 AI for tools
+
+I build pipeline tools with AI as a co-developer. I own the vision: the problem worth solving,
+how the tool should feel for artists, and whether it's good enough to ship. AI does most of the
+implementation, and through Claude Code and MCP it can drive the Unreal editor directly.
+
+<img src="assets/human-ai-split.svg" width="100%" alt="How my tools get built: 30% human (vision, tool design and UX, review), 70% AI (implementation, editor plumbing, iteration, tests)">
 
 ---
 
 ### 🧰 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,py,cpp,ps,ai,ae,pr&theme=dark" alt="Unreal, Unity, Python, C++, Photoshop, Illustrator, After Effects, Premiere">
+  <img src="https://skillicons.dev/icons?i=unreal,unity,py,cpp,visualstudio,vscode,powershell,git,ps,ai,ae,pr&theme=dark" alt="Unreal, Unity, Python, C++, Visual Studio, VS Code, PowerShell, Git, Photoshop, Illustrator, After Effects, Premiere">
 </p>
 
-`Maya` `ZBrush` `Substance Designer` `Substance Painter` `Mari` `SpeedTree` `Marmoset Toolbag` `Snowdrop` `Photogrammetry` `Perforce` `World Partition`
+**Art** &nbsp; `Maya` `ZBrush` `Mudbox` `Substance Designer` `Substance Painter` `Mari` `SpeedTree` `Marmoset Toolbag` `Knald` `xNormal` `Photogrammetry` `Nuke` `Arnold`
+
+**Engine & tech** &nbsp; `Unreal Engine 5` `Snowdrop` `Unity` `World Partition` `Level Instances` `Nanite` `Virtual Texturing` `Unreal Insights` `Optimization`
+
+**Code & pipeline** &nbsp; `C++` `Python` `Editor tools & plugins` `Claude Code` `MCP` `Perforce` `Git` `Jira` `Confluence`
+
+**Design** &nbsp; `Photoshop` `Illustrator` `After Effects` `Premiere` `Graphic design` `Photography`
 
 ---
 
@@ -66,7 +81,7 @@ I like environments that tell a story, and I like the tools that make them faste
 - [Super Bool Tool + boolean workflow recap](https://leonano.com/projects/laWOo)
 - [All you need to know about texel density](https://leonano.com/projects/qbOqP)
 - [No more wrong normal maps!](https://leonano.com/projects/nNXyK)
-- [A workflow to bake details from ZBrush to low poly](https://leonano.com/projects/3BqVv) · also on [80.lv](https://80.lv/author/leonardo-iezzi)
+- [A workflow to bake details from ZBrush to low poly](https://leonano.com/projects/3BqVv)
 
 ---
 
@@ -74,6 +89,12 @@ I like environments that tell a story, and I like the tools that make them faste
 
 <a href="https://leoiezzi.com"><img src="assets/climbing.webp" width="100%" alt="Climbing and ice-climbing photography by Leo Iezzi"></a>
 
+<a href="https://www.acmg.ca/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/acmg-dark.png">
+  <img src="assets/acmg-light.png" height="28" alt="ACMG">
+</picture></a>
+
+I'm an **ACMG Apprentice Rock Guide** and **Wilderness First Aid (WFA) certified**.
 I shoot rock and ice climbing around Squamish and beyond ([leoiezzi.com](https://leoiezzi.com)), and I volunteer
 my design, web and photo skills for the local climbing community:
 
