@@ -78,6 +78,6 @@ I shoot rock and ice climbing around Squamish and beyond ([leoiezzi.com](https:/
 my design, web and photo skills for the local climbing community:
 
 - [**Squamish Access Society**](https://squamishaccess.ca): stewardship and access for the crags of the Sea to Sky
-- **Sea to Sky Bolt Fund**: funding new bolts and anchors for local route developers
+- [**Sea to Sky Bolt Fund**](https://seatoskyclimbing.ca): funding new bolts and anchors for local route developers
 
 <p align="center"><sub>📍 Squamish, BC · Made between the editor and the crag</sub></p>
