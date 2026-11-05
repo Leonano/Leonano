@@ -53,9 +53,12 @@ I like environments that tell a story, and I like the tools that make them faste
 
 I build pipeline tools with AI as a co-developer. I own the vision: the problem worth solving,
 how the tool should feel for artists, and whether it's good enough to ship. AI does most of the
-implementation, and through Claude Code and MCP it can drive the Unreal editor directly.
+implementation.
 
-<img src="assets/human-ai-split.svg" width="100%" alt="How my tools get built: 30% human (vision, tool design and UX, review), 70% AI (implementation, editor plumbing, iteration, tests)">
+<img src="assets/tools-before-after-ai.svg" width="100%" alt="Before AI: 30% vision, 50% figuring out how, 20% building, and only about 5% of the vision got built. With AI: 30% human vision and UX, 70% AI implementation, and the vision ships.">
+
+> [!IMPORTANT]
+> **Art shouldn't be AI-optimized.** AI builds the tools; the worlds are still made by artists.
 
 ---
 
