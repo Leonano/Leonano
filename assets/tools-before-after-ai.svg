@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="408" viewBox="0 0 880 408" role="img" aria-labelledby="t d">
   <title id="t">Where my tool-building time goes, before and with AI</title>
-  <desc id="d">Before AI: 30% vision, 50% figuring out how, 20% building; most ideas died in the how and only about 5% of the vision reached artists. With AI: the same 30% human (which problem is worth solving, how it should feel for artists, nothing ships without review), 70% AI (C++, Python and editor plumbing, trying several approaches, tests and docs, profiling and batch fixes). AI didn't take the creative part. It took the part that was never creative.</desc>
+  <desc id="d">Before AI: 30% vision, 50% figuring out how, 20% building; most ideas died in the how and only about 5% of the vision reached artists. With AI: the same 30% human (which problem is worth solving, how it should feel for artists, nothing ships without review), 70% AI (C++, Python and editor plumbing, trying several approaches, tests and docs, profiling and batch fixes). AI doesn't replace the craft. It closes the gap between an idea and the artist using it.</desc>
   <style>
     :root { --ink: #1f2328; --muted: #59636e; --rule: #d1d9e0;
             --human: #d98a1f; --how: #8c959f; --impl: #8250df; --ai: #3f7fd0; }
@@ -46,11 +46,11 @@
   <rect class="ai" x="266" y="298" width="8" height="8" rx="2"/><text class="item" x="282" y="306">Trying five approaches to keep one</text>
   <rect class="ai" x="266" y="324" width="8" height="8" rx="2"/><text class="item" x="282" y="332">Tests &amp; docs that used to get skipped</text>
 
-  <rect class="ai" x="602" y="272" width="8" height="8" rx="2"/><text class="item" x="618" y="280">Blockouts &amp; level audits</text>
+  <rect class="ai" x="602" y="272" width="8" height="8" rx="2"/><text class="item" x="618" y="280">Level audits</text>
   <rect class="ai" x="602" y="298" width="8" height="8" rx="2"/><text class="item" x="618" y="306">Profiling &amp; optimization passes</text>
   <rect class="ai" x="602" y="324" width="8" height="8" rx="2"/><text class="item" x="618" y="332">Batch fixes across levels</text>
 
   <text class="out" x="0" y="366">→ same 30% of human vision. It just stops dying in the “how”.</text>
 
-  <text class="quote" x="0" y="400">AI didn't take the creative part. It took the part that was never creative.</text>
+  <text class="quote" x="0" y="400">AI doesn't replace the craft. It closes the gap between an idea and the artist using it.</text>
 </svg>
