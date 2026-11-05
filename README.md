@@ -1,12 +1,12 @@
 <a href="https://leonano.com"><img src="assets/banner.jpg" alt="Leo Iezzi: Environment & Level Artist" width="100%"></a>
 
 <p align="center">
-  <a href="https://leonano.com"><img src="https://img.shields.io/badge/Portfolio-leonano.com-e8a33d?style=flat-square&labelColor=0d0f14" alt="Portfolio"></a>
-  <a href="https://www.artstation.com/leonano"><img src="https://img.shields.io/badge/ArtStation-leonano-13aff0?style=flat-square&logo=artstation&logoColor=white&labelColor=0d0f14" alt="ArtStation"></a>
-  <a href="https://www.linkedin.com/in/leonano/"><img src="https://img.shields.io/badge/LinkedIn-leonano-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0f14" alt="LinkedIn"></a>
-  <a href="https://leoiezzi.com"><img src="https://img.shields.io/badge/Photography-leoiezzi.com-7fb8d8?style=flat-square&logo=camera&logoColor=white&cacheSeconds=86400&labelColor=0d0f14" alt="Climbing photography"></a>
-  <a href="https://www.instagram.com/leonano/"><img src="https://img.shields.io/badge/Instagram-%40leonano-e4405f?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0f14&cacheSeconds=86400" alt="Instagram"></a>
-  <a href="https://x.com/leonanodotcom"><img src="https://img.shields.io/badge/X-%40leonanodotcom-a0a6b2?style=flat-square&logo=x&logoColor=white&labelColor=0d0f14&cacheSeconds=86400" alt="X"></a>
+  <a href="https://leonano.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.artstation.com/leonano"><b>ArtStation</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/leonano/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://leoiezzi.com"><b>Climbing Photography</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/leonano/"><b>Instagram</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/leonanodotcom"><b>X</b></a>
 </p>
 
 I'm Leo, an Italian environment and level artist based in **Squamish, BC**. I've spent 15+ years building
