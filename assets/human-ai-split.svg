@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="196" viewBox="0 0 880 196" role="img" aria-labelledby="t d">
+  <title id="t">How my tools get built: 30% human, 70% AI</title>
+  <desc id="d">Human 30%: vision, tool design and user experience, review and taste. AI 70%: implementation in C++ and Python, editor plumbing, iteration, tests and docs.</desc>
+  <style>
+    :root { --ink: #1f2328; --muted: #59636e; --human: #d98a1f; --ai: #3f7fd0; }
+    @media (prefers-color-scheme: dark) {
+      :root { --ink: #e6edf3; --muted: #9198a1; --human: #e8a33d; --ai: #5b9be6; }
+    }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: var(--ink); }
+    .pct { font-size: 28px; font-weight: 600; }
+    .who { font-size: 15px; font-weight: 600; fill: var(--muted); letter-spacing: .06em; }
+    .item { font-size: 14px; fill: var(--muted); }
+    .human { fill: var(--human); }
+    .ai { fill: var(--ai); }
+  </style>
+
+  <!-- headline labels -->
+  <text class="pct" x="0" y="32">30%</text>
+  <text class="who" x="62" y="31">HUMAN</text>
+  <text class="pct" x="266" y="32">70%</text>
+  <text class="who" x="328" y="31">AI</text>
+
+  <!-- the bar: 30 / 70 with a 2px gap -->
+  <rect class="human" x="0" y="46" width="263" height="26" rx="4"/>
+  <rect class="ai" x="265" y="46" width="615" height="26" rx="4"/>
+
+  <!-- what each side owns -->
+  <g class="item">
+    <rect class="human" x="0" y="96" width="8" height="8" rx="2"/>
+    <text class="item" x="16" y="104">Vision: what to build and why</text>
+    <rect class="human" x="0" y="124" width="8" height="8" rx="2"/>
+    <text class="item" x="16" y="132">Tool design &amp; artist UX</text>
+    <rect class="human" x="0" y="152" width="8" height="8" rx="2"/>
+    <text class="item" x="16" y="160">Review, taste &amp; sign-off</text>
+
+    <rect class="ai" x="266" y="96" width="8" height="8" rx="2"/>
+    <text class="item" x="282" y="104">C++ &amp; Python implementation</text>
+    <rect class="ai" x="266" y="124" width="8" height="8" rx="2"/>
+    <text class="item" x="282" y="132">Unreal editor plumbing &amp; boilerplate</text>
+    <rect class="ai" x="266" y="152" width="8" height="8" rx="2"/>
+    <text class="item" x="282" y="160">Iteration, tests &amp; docs</text>
+
+    <rect class="ai" x="576" y="96" width="8" height="8" rx="2"/>
+    <text class="item" x="592" y="104">Driving the editor via MCP</text>
+    <rect class="ai" x="576" y="124" width="8" height="8" rx="2"/>
+    <text class="item" x="592" y="132">Blockouts, audits &amp; profiling</text>
+    <rect class="ai" x="576" y="152" width="8" height="8" rx="2"/>
+    <text class="item" x="592" y="160">Batch fixes across levels</text>
+  </g>
+
+  <text class="item" x="0" y="190" style="font-size:12px">The idea and the experience stay human. The typing is mostly AI.</text>
+</svg>
