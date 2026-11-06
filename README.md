@@ -71,7 +71,7 @@ whether it's good enough to ship. AI writes most of the code; I read it, test it
 
 **Engine & tech** &nbsp; `Unreal Engine 5` `Snowdrop` `Unity` `World Partition` `Level Instances` `Nanite` `Virtual Texturing` `Unreal Insights` `Optimization`
 
-**Code & pipeline** &nbsp; `C++` `Python` `Editor tools & plugins` `Claude Code` `MCP` `Perforce` `Git` `Jira` `Confluence`
+**Code & pipeline** &nbsp; `C++` `Python` `Editor tools & plugins` `Perforce` `Git` `Jira` `Confluence`
 
 **Design** &nbsp; `Photoshop` `Illustrator` `After Effects` `Premiere` `Graphic design` `Photography`
 
