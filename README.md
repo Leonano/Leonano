@@ -12,7 +12,7 @@ I'm Leo, an Italian environment and level artist based in **Squamish, BC**. I've
 AAA worlds, from early graphic-design work in Italy to open worlds at Ubisoft and Microsoft.
 I like environments that tell a story, and I like the tools that make them faster to build.
 
-- 🌲 **Now:** building worlds, setting up pipeline and env tech at [**Arcanaut Studios**](https://www.playnews.gg/en/studios/arcanaut-studios)
+- 🌲 **Now:** building worlds, setting up pipeline and env tech at [**Arcanaut Studios**](https://www.arcanautstudios.com/)
 - 🛠️ **On the side of the art:** Unreal Engine editor tools and plugins in C++ and Python for blockouts, Level Instances, World Partition and performance
 - 🎨 **Background:** graphic designer first, and it still shapes how I compose a shot or lay out a space
 - 🧗 **Off the clock:** climbing, ice climbing and shooting both around the Sea to Sky
