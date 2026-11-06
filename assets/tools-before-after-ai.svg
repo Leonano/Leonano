@@ -1,22 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="408" viewBox="0 0 880 408" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="362" viewBox="0 0 880 362" role="img" aria-labelledby="t d">
   <title id="t">Where my tool-building time goes, before and with AI</title>
-  <desc id="d">Before AI: 30% vision, 50% figuring out how, 20% building; most ideas died in the how and only about 5% of the vision reached artists. With AI: the same 30% human (which problem is worth solving, how it should feel for artists, nothing ships without review), 70% AI (C++, Python and editor plumbing, trying several approaches, tests and docs, profiling and batch fixes). AI doesn't replace the craft. It closes the gap between an idea and the artist using it.</desc>
+  <desc id="d">Before AI: 30% vision, 50% figuring out how, 20% building, and only 5% of the vision ever shipped; most ideas died in the how. With AI: 30% human vision, 70% AI. Same human vision, it just stops dying in the how. AI doesn't replace the craft. It closes the gap between an idea and the artist using it.</desc>
   <style>
-    :root { --ink: #1f2328; --muted: #59636e; --rule: #d1d9e0;
+    :root { --ink: #1f2328; --muted: #59636e; --rule: #d1d9e0; --track: #e6eaef;
             --human: #d98a1f; --how: #8c959f; --impl: #8250df; --ai: #3f7fd0; }
     @media (prefers-color-scheme: dark) {
-      :root { --ink: #e6edf3; --muted: #9198a1; --rule: #3d444d;
+      :root { --ink: #e6edf3; --muted: #9198a1; --rule: #3d444d; --track: #262c36;
               --human: #e8a33d; --how: #6e7681; --impl: #a371f7; --ai: #5b9be6; }
     }
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: var(--ink); }
     .head { font-size: 13px; font-weight: 700; fill: var(--muted); letter-spacing: .12em; }
     .sub { font-size: 13px; font-weight: 400; fill: var(--muted); letter-spacing: 0; }
     .pct { font-size: 26px; font-weight: 600; }
+    .pct-s { font-size: 20px; font-weight: 600; }
     .who { font-size: 14px; font-weight: 600; fill: var(--muted); letter-spacing: .04em; }
-    .item { font-size: 14px; fill: var(--muted); }
     .out { font-size: 15px; font-weight: 600; }
     .quote { font-size: 17px; font-weight: 600; font-style: italic; }
     .human { fill: var(--human); } .how { fill: var(--how); } .impl { fill: var(--impl); } .ai { fill: var(--ai); }
+    .track { fill: var(--track); }
   </style>
 
   <!-- BEFORE AI -->
@@ -27,30 +28,22 @@
   <rect class="human" x="0" y="64" width="263" height="24" rx="4"/>
   <rect class="how" x="265" y="64" width="439" height="24" rx="4"/>
   <rect class="impl" x="706" y="64" width="174" height="24" rx="4"/>
-  <text class="out" x="0" y="118">→ most ideas died in the “how”. Only ~5% of the vision ever reached artists.</text>
 
-  <line x1="0" y1="146" x2="880" y2="146" stroke="var(--rule)" stroke-width="1"/>
+  <!-- how much of the vision actually shipped -->
+  <text class="pct-s" x="0" y="124">5%</text><text class="who" x="34" y="123">OF THE VISION SHIPPED</text>
+  <rect class="track" x="0" y="132" width="880" height="10" rx="5"/>
+  <rect class="human" x="0" y="132" width="44" height="10" rx="5"/>
+  <text class="out" x="0" y="172">→ most ideas died in the “how”.</text>
+
+  <line x1="0" y1="198" x2="880" y2="198" stroke="var(--rule)" stroke-width="1"/>
 
   <!-- WITH AI -->
-  <text class="head" x="0" y="178">WITH AI <tspan class="sub">· where it goes now</tspan></text>
-  <text class="pct" x="0" y="214">30%</text><text class="who" x="58" y="213">HUMAN</text>
-  <text class="pct" x="266" y="214">70%</text><text class="who" x="324" y="213">AI</text>
-  <rect class="human" x="0" y="226" width="263" height="24" rx="4"/>
-  <rect class="ai" x="265" y="226" width="615" height="24" rx="4"/>
+  <text class="head" x="0" y="230">WITH AI <tspan class="sub">· where it goes now</tspan></text>
+  <text class="pct" x="0" y="266">30%</text><text class="who" x="58" y="265">HUMAN VISION</text>
+  <text class="pct" x="266" y="266">70%</text><text class="who" x="324" y="265">AI</text>
+  <rect class="human" x="0" y="278" width="263" height="24" rx="4"/>
+  <rect class="ai" x="265" y="278" width="615" height="24" rx="4"/>
 
-  <rect class="human" x="0" y="272" width="8" height="8" rx="2"/><text class="item" x="16" y="280">Which problem is worth solving</text>
-  <rect class="human" x="0" y="298" width="8" height="8" rx="2"/><text class="item" x="16" y="306">How it should feel for artists</text>
-  <rect class="human" x="0" y="324" width="8" height="8" rx="2"/><text class="item" x="16" y="332">Nothing ships without my review</text>
-
-  <rect class="ai" x="266" y="272" width="8" height="8" rx="2"/><text class="item" x="282" y="280">The “how”: C++, Python, editor plumbing</text>
-  <rect class="ai" x="266" y="298" width="8" height="8" rx="2"/><text class="item" x="282" y="306">Trying five approaches to keep one</text>
-  <rect class="ai" x="266" y="324" width="8" height="8" rx="2"/><text class="item" x="282" y="332">Tests &amp; docs that used to get skipped</text>
-
-  <rect class="ai" x="602" y="272" width="8" height="8" rx="2"/><text class="item" x="618" y="280">Level audits</text>
-  <rect class="ai" x="602" y="298" width="8" height="8" rx="2"/><text class="item" x="618" y="306">Profiling &amp; optimization passes</text>
-  <rect class="ai" x="602" y="324" width="8" height="8" rx="2"/><text class="item" x="618" y="332">Batch fixes across levels</text>
-
-  <text class="out" x="0" y="366">→ same 30% of human vision. It just stops dying in the “how”.</text>
-
-  <text class="quote" x="0" y="400">AI doesn't replace the craft. It closes the gap between an idea and the artist using it.</text>
+  <text class="out" x="0" y="326">→ same 30% of human vision. It just stops dying in the “how”.</text>
+  <text class="quote" x="0" y="352">AI doesn't replace the craft. It closes the gap between an idea and the artist using it.</text>
 </svg>
