@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="30" viewBox="0 0 104 30" role="img" aria-label="Portfolio">
+  <title>Portfolio</title>
+  <style>
+    :root { --bg: #f6f8fa; --edge: #d1d9e0; --ink: #1f2328; --brand: #c97a12; }
+    @media (prefers-color-scheme: dark) { :root { --bg: #151b23; --edge: #3d444d; --ink: #e6edf3; --brand: #e8a33d; } }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: var(--ink); }
+  </style>
+  <rect x="0.5" y="0.5" width="103" height="29" rx="14.5" fill="var(--bg)" stroke="var(--edge)"/>
+  <g transform="translate(12 7.5) scale(0.6250)" fill="none" stroke="var(--brand)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10" /> <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" /> <path d="M2 12h20" /></g>
+  <text x="34" y="19.5">Portfolio</text>
+</svg>
