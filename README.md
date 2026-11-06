@@ -1,11 +1,11 @@
 <a href="https://leonano.com"><img src="assets/banner.jpg" alt="Leo Iezzi: Environment & Level Artist" width="100%"></a>
 
 <p align="center">
-  <a href="https://leonano.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.artstation.com/leonano"><b>ArtStation</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/leonano/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://leoiezzi.com"><b>Climbing Photography</b></a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/leonano/"><b>Instagram</b></a>
+  <a href="https://leonano.com"><img src="assets/social/portfolio.svg" height="30" alt="Portfolio"></a>
+  <a href="https://www.artstation.com/leonano"><img src="assets/social/artstation.svg" height="30" alt="ArtStation"></a>
+  <a href="https://www.linkedin.com/in/leonano/"><img src="assets/social/linkedin.svg" height="30" alt="LinkedIn"></a>
+  <a href="https://leoiezzi.com"><img src="assets/social/photography.svg" height="30" alt="Climbing Photography"></a>
+  <a href="https://www.instagram.com/leonano/"><img src="assets/social/instagram.svg" height="30" alt="Instagram"></a>
 </p>
 
 I'm Leo, an Italian environment and level artist based in **Squamish, BC**. I've spent 15+ years building
@@ -13,7 +13,7 @@ AAA worlds, from early graphic-design work in Italy to open worlds at Ubisoft an
 I like environments that tell a story, and I like the tools that make them faster to build.
 
 - 🌲 **Now:** building worlds, setting up pipeline and env tech at [**Arcanaut Studios**](https://www.arcanautstudios.com/)
-- 🛠️ **On the side of the art:** Unreal Engine editor tools and plugins in C++ and Python for blockouts, Level Instances, World Partition and performance
+- 🛠️ **On the side of the art:** Unreal Engine editor tools and plugins in C++ and Python: improving workflows, building the tools that don't exist yet, and challenging slow workflows
 - 🎨 **Background:** graphic designer first, and it still shapes how I compose a shot or lay out a space
 - 🧗 **Off the clock:** climbing, ice climbing and shooting both around the Sea to Sky
 - 🎓 **Giving back:** I [mentor](https://leonano.com/pages/mentorship) environment artists on planning, pre-production and teamwork
